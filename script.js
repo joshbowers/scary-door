@@ -30,37 +30,37 @@ function openDoor() {
     switch (inputValue()) {
         // Open door one
         case "one":
-            whatsBehindDoor = "A breifcase with 1 trillion dollars...!" 
+            whatsBehindDoor = "Behind the door is... A breifcase with 1 trillion dollars...!" 
             + " that causes your limbs to fall of when you spend it.";
             break;
         case "1":
-            whatsBehindDoor = "A breifcase with 1 trillion dollars...!" 
+            whatsBehindDoor = "Behind the door is... A breifcase with 1 trillion dollars...!" 
             + " that causes your limbs to fall of when you spend it.";
             break;
         // Open door two
         case "two":
-            whatsBehindDoor = "The person of your dreams...! "
+            whatsBehindDoor = "Behind the door is... The person of your dreams...! "
             + " but they sell Mary Kay products.";
             break;
 		case "2":
-            whatsBehindDoor = "The person of your dreams...! "
+            whatsBehindDoor = "Behind the door is... The person of your dreams...! "
             + " but they sell Mary Kay products.";
             break;
         // Open door three
         case "three":
-            whatsBehindDoor = "The gift of flight...! but you can only "
+            whatsBehindDoor = "Behind the door is... The gift of flight...! but you can only "
             + " fly three feet off of the ground.";
             break;
         case "3":
-            whatsBehindDoor = "The gift of flight...! but you can only "
+            whatsBehindDoor = "Behind the door is... The gift of flight...! but you can only "
             + " fly three feet off of the ground.";
             break;
         // Open door three
         case "four":
-            whatsBehindDoor = "The gift of acceptance...!"
+            whatsBehindDoor = "Behind the door is... The gift of acceptance...!"
             break;
         case "4":
-            whatsBehindDoor = "The gift of acceptance...!"
+            whatsBehindDoor = "Behind the door is... The gift of acceptance...!"
             break;
         default:
             whatsBehindDoor = "Which door do you choose to open... One, two, three, or four?"
