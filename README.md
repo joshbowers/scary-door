@@ -1,2 +1,2 @@
 # scary-door
-Silly project created with switch statements and event listeners. 
+Silly project created with JavaScript switch statements and event listeners. 
