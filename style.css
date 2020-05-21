@@ -1,0 +1,22 @@
+body {
+	font-family: 'Indie Flower', cursive; 
+	margin: auto 0;
+	background-color: black;
+	color: red;
+	text-align: center;
+	background-image: url("https://i.imgur.com/wmA7m1U.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+button {
+	font-family: 'Indie Flower', cursive; 
+	background-color: black;
+	color: red;
+}
+
+input {
+	font-family: 'Indie Flower', cursive; 
+	background-color: black;
+	color: red;
+}
